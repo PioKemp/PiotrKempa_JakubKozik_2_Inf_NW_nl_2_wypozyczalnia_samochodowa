@@ -12,8 +12,8 @@ Zarządzanie klientami:
 
 Technologie:
 -C#
--.NET 6.0
--MySQL(dla bazy danych)
+-.NET 8.0
+-SQLite(dla bazy danych)
 -Windows Forms
 
 Autorzy:
