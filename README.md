@@ -1,5 +1,6 @@
 Projekt "Wypożyczalnia Samochodowa" to aplikacja stworzona w języku C#, która umożliwia zarządzanie wypożyczalnią samochodów.
 Program pozwala na rezerwację samochodów przez klientów.
+
 Funkcjonalności:
 - Logowanie
 - Rejestracja
